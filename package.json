@@ -1,0 +1,23 @@
+{
+  "name": "loginusersapi",
+  "version": "1.0.0",
+  "description": "Api to authenticate users and tokens",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edijaniosouza/Login-Api-ServAPP.git"
+  },
+  "keywords": [
+    "Login",
+    "Api"
+  ],
+  "author": "Edijanio S. Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edijaniosouza/Login-Api-ServAPP/issues"
+  },
+  "homepage": "https://github.com/edijaniosouza/Login-Api-ServAPP#readme"
+}
